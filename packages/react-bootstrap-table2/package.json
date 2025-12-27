@@ -1,5 +1,5 @@
 {
-  "name": "@gnom-project/react-bootstrap-table-next",
+  "name": "@g-nom-project/react-bootstrap-table-next",
   "version": "1.0.0",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
