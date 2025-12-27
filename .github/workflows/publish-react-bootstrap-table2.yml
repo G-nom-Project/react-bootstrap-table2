@@ -34,6 +34,6 @@ jobs:
 
       # Publish react-bootstrap-table2 directly
       - name: Publish react-bootstrap-table2
-        run: yarn workspace @gnom-project/react-bootstrap-table-next publish
+        run: yarn workspace @g-nom-project/react-bootstrap-table-next publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
