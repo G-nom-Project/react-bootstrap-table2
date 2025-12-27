@@ -18,3 +18,4 @@ yarn-error.log*
 
 # gh-pages
 storybook-static
+.npmrc
